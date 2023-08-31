@@ -1,22 +1,20 @@
-This tool is made only by daarkfigh00, so don't copy it and pass it off as your own
-Thanks (--\_\_--)
+-- This tool can generate Discord Nitro codes, and in the same times it can analyze them
 
 ---
+---Installation tutorial for KALI LINUX:
 
-Installation tutorial for KALI LINUX:
+- sudo apt-get update
 
-sudo apt-get update
+- sudo apt-get upgrade
 
-sudo apt-get upgrade
+- sudo apt-get install git
 
-sudo apt-get install git
+- sudo apt-get install python3
 
-sudo apt-get install python3
+- git clone https://github.com/daarkfight00/Discord-Nitro-Generator.git
 
-git clone https://github.com/daarkfight00/Discord-Nitro-Generator.git
+- cd Discord-Nitro-Generator
 
-cd Discord-Nitro-Generator
+- pip install -r requirements.txt (if u don't have pip, type in ur terminal sudo apt-get install pip)
 
-pip install -r requirements.txt (if u don't have pip, install it)
-
-python3 main.py
+- python3 main.py
