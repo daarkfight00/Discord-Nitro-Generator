@@ -21,7 +21,7 @@ for char in messaggio:
     sys.stdout.flush()
     time.sleep(0.1)
 input(Fore.WHITE  +"Premere un tasto per continuare")
-os.system("cls")
+os.system("clear")
 
 time.sleep(2)
 print("Generating Nitro Links")

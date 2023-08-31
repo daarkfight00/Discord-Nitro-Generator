@@ -4,5 +4,4 @@ string
 time 
 os
 colorama
-Fore
 sys
