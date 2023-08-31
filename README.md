@@ -3,20 +3,20 @@ Thanks (--\_\_--)
 
 ---
 
-Installation tutorial for KALI LINUX:
+- Installation tutorial for KALI LINUX:
 
-sudo apt-get update
+- sudo apt-get update
 
-sudo apt-get upgrade
+- sudo apt-get upgrade
 
-sudo apt-get install git
+- sudo apt-get install git
 
-sudo apt-get install python3
+- sudo apt-get install python3
 
-git clone https://github.com/daarkfight00/Discord-Nitro-Generator.git
+- git clone https://github.com/daarkfight00/Discord-Nitro-Generator.git
 
-cd Discord-Nitro-Generator
+- cd Discord-Nitro-Generator
 
-pip install -r requirements.txt (if u don't have pip, install it)
+- pip install -r requirements.txt (if u don't have pip, type in ur terminal sudo apt-get install pip)
 
-python3 main.py
+- python3 main.py
