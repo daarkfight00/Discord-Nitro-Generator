@@ -1,8 +1,7 @@
 -- This tool can generate Discord Nitro codes, and in the same times it can analyze them
 
 ---
-
-- Installation tutorial for KALI LINUX:
+---Installation tutorial for KALI LINUX:
 
 - sudo apt-get update
 
