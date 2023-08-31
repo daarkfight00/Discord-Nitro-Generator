@@ -6,6 +6,9 @@ import os
 import colorama
 from colorama import Fore
 import sys
+import platform
+
+operating_system = platform.system()
 
 print(r"""   _  ___ __              _____                      __          
   / |/ (_) /________     / ___/__ ___  ___ _______ _/ /____  ____
@@ -21,7 +24,11 @@ for char in messaggio:
     sys.stdout.flush()
     time.sleep(0.1)
 input(Fore.WHITE  +"Premere un tasto per continuare")
-os.system("clear")
+if operating_system == "Windows":
+    clear_command = "cls"
+else:
+    clear_command = "clear"
+os.system(clear_command)
 
 time.sleep(2)
 print("Generating Nitro Links")
