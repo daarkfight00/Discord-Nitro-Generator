@@ -1,5 +1,4 @@
-This tool is made only by daarkfigh00, so don't copy it and pass it off as your own
-Thanks (--\_\_--)
+-- This tool can generate Discord Nitro codes, and in the same times it can analyze them
 
 ---
 
