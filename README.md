@@ -11,30 +11,29 @@
 Follow these steps to install and use the Discord Nitro Generator on your Kali Linux system:
 
 1. Update your package list:
-sudo apt update
-sudo apt upgrade
+<h3 align="left">sudo apt update</h3>
+<h3 align="left">sudo apt upgrade</h3>
 
 2. Install pip3:
-sudo apt-get install pip3
+<h3 align="left">sudo apt-get install pip3</h3>
 
 3. Install Python3:
-sudo apt-get install python3
+<h3 align="left">sudo apt-get install python3</h3>
 
 4. Install Git:
-sudo apt-get install git
+<h3 align="left">sudo apt-get install git</h3>
 
 5. Clone the Discord Nitro Generator repository:
-git clone https://github.com/daarkfight00/Discord-Nitro-Generator.git
+<h3 align="left">git clone https://github.com/daarkfight00/Discord-Nitro-Generator.git</h3>
 
 6. Navigate to the project directory:
-cd Discord-Nitro-Generator
+<h3 align="left">cd Discord-Nitro-Generator</h3>
 
 7. Install the required Python packages:
-pip3 install -r requirements.txt
+<h3 align="left">pip3 install -r requirements.txt</h3>
 
 8. Run the tool:
-python3 main.py
-
+<h3 align="left">python3 main.py</h3>
 
 <h3 align="left">For support, contact me on my social:</h3>
 <p align="left">
