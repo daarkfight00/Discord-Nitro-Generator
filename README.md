@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/max/3840/1*J4Lkof6K3jZpKrxVXdy-Iw.jpeg)
+![MasterHead]([https://miro.medium.com/max/3840/1*J4Lkof6K3jZpKrxVXdy-Iw.jpeg](https://thumbs.gfycat.com/UnconsciousMildBrahmancow-small.gif))
 
 # Discord Nitro Generator
 
