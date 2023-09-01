@@ -1,4 +1,4 @@
-![Discord Nitro Generator]([https://i.morioh.com/200705/ad149e01.jpg](https://1.bp.blogspot.com/-clk8v5VCUpE/YMb1xq7BSlI/AAAAAAAAAEY/j43tZpvpsL0x57BhzI4UVcJU9ytZ3Oe8QCLcBGAsYHQ/s2048/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e-min.png))
+![Masterhead]([[https://i.morioh.com/200705/ad149e01.jpg](https://1.bp.blogspot.com/-clk8v5VCUpE/YMb1xq7BSlI/AAAAAAAAAEY/j43tZpvpsL0x57BhzI4UVcJU9ytZ3Oe8QCLcBGAsYHQ/s2048/EGS_Discord_Nitro_2560x1440_withlogo_2560x1440-944994658df3b04d0c4940be832da19e-min.png)](https://www.centralxbox.com.br/wp-content/uploads/2019/11/discord-nitro.jpg))
 
 # Discord Nitro Generator
 
