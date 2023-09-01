@@ -4,7 +4,9 @@
 
 ## Installation Tutorial for Kali Linux
 
-![Kali Linux](https://www.generacionyrd.com/wp-content/uploads/2020/08/KALI-LINUX.jpg)
+<div align="center">
+  <img src="https://www.generacionyrd.com/wp-content/uploads/2020/08/KALI-LINUX.jpg" alt="Kali Linux" width="200"/>
+</div>
 
 Follow these steps to install and use the Discord Nitro Generator on your Kali Linux system:
 
@@ -32,3 +34,10 @@ pip3 install -r requirements.txt
 
 8. Run the tool:
 python3 main.py
+
+
+<h3 align="left">For support, contact me on my social:</h3>
+<p align="left">
+<a href="https://twitter.com/daark_fighter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daark_fighter" height="30" width="40" /></a>
+<a href="https://discord.gg/cZxBaJ32yk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/cZxBaJ32yk" height="30" width="40" /></a>
+</p>
